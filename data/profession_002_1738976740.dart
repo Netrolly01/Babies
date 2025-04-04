@@ -1,0 +1,1 @@
+a:5:{s:12:"id_personaje";s:3:"002";s:16:"nombre_profesion";s:7:"Doctora";s:9:"categoria";s:12:"Sector salud";s:5:"nivel";s:8:"Avanzado";s:7:"salario";d:50000;}

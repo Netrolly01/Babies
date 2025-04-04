@@ -1,0 +1,1 @@
+a:6:{s:14:"identificacion";s:3:"003";s:6:"nombre";s:3:"Ken";s:8:"apellido";s:4:"Past";s:16:"fecha_nacimiento";s:10:"2000-05-03";s:4:"foto";s:11:"default.jpg";s:3:"rol";s:4:"Chef";}

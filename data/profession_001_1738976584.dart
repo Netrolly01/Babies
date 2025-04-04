@@ -1,0 +1,1 @@
+a:5:{s:12:"id_personaje";s:3:"001";s:16:"nombre_profesion";s:9:"Peluquera";s:9:"categoria";s:9:"Estética";s:5:"nivel";s:10:"Intermedio";s:7:"salario";d:5000;}

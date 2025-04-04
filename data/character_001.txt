@@ -1,0 +1,1 @@
+a:6:{s:14:"identificacion";s:3:"001";s:6:"nombre";s:6:"Barbie";s:8:"apellido";s:7:"Peluker";s:16:"fecha_nacimiento";s:10:"2001-02-09";s:4:"foto";s:11:"default.jpg";s:3:"rol";s:9:"Peluquera";}
